@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<insira Cristian Deyves Oliveira de Brito>*
-- Email: *\<insira deyvesoliveira@outlook.com>*
-- Turma: *\<insira IMD0030-T01>*
+- Nome: *\Cristian Deyves Oliveira de Brito*
+- Email: *\deyvesoliveira@outlook.com*
+- Turma: *\IMD0030-T01*
 
 # Questões Finalizadas
 
