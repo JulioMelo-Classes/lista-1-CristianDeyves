@@ -5,7 +5,7 @@ const int SIZE = 5; // input size.
 
 int main(void)
 {
-    int cont[2]{0}, vector[SIZE];
+    int cont[2] = {0}, vector[SIZE];
 
     while (cont[1] < SIZE)
     {
