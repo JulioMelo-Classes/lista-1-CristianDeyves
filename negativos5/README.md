@@ -5,10 +5,10 @@ Escreva um programa em C++ que recebe 5 valores inteiros da entrada padrão, con
 ## Exemplos de Entrada/Saída
 
 
-Entrada | Saída
-------- | -----
+    Entrada   | Saída
+------------- | -----
 `-1 -2 0 1 2` | `2`
-`1 2 3 4 5` | `0`
+`1 2 3 4 5`   | `0`
 
 ## Conchecimentos Necessários
 
