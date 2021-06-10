@@ -6,9 +6,9 @@ Escreva um programa em C++ que lê um numero não determinado de pares de valore
 
 Entrada | Saída
 ------- | -----
-`4 6` | `39`
+`4 6`   | `39`
 `10 -4` | `34`
-`39 0` | `39`
+`39 0`  | `39`
 
 ## Conhecimentos necessários
 
