@@ -7,34 +7,40 @@ int main( void )
 {
     int num[2] = {0}, temp = 0;
 
-    cin >> num[0];
 
-    cin >> num[1];
-
-    if (num[1] > 0)
+    
+    while (cin >> std::ws >> num[0] >> num[1])
     {
-        while (temp != num[1])
+        cin >> num[0];
+
+        cin >> num[1];
+        
+        if (num[1] > 0)
         {
-            num[0]++;
-            temp++;
+            while (temp != num[1])
+            {
+                num[0]++;
+                temp++;
+            }
+            cout << num[0] << endl;
         }
-        cout << num[0] << endl;
-    }
 
-    else if (num[1] = 0)
-    {
-        cout << num[0] << endl;
-    }
-
-    else
-    {
-        while (temp != num[1])
+        else if (num[1] = 0)
         {
-            num[0] = num[0] + (num[0] - 1);
-            temp++;
+            cout << num[0] << endl;
         }
-        cout << num[0] << endl;
+
+        else
+        {
+            while (temp != num[1])
+            {
+                num[0] = num[0] + (num[0] - 1);
+                temp++;
+            }
+            cout << num[0] << endl;
+        }
     }
+    
 
     return 0;
 }
