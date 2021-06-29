@@ -3,6 +3,9 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+/*
+não entendi bem qual sua ideia aqui, mas o resultado é bem diferente do esperado por isso vou considerar 10%
+*/
 int main( void )
 {
     int num[2] = {0}, temp = 0;

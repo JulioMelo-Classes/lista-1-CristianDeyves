@@ -3,6 +3,10 @@ using namespace std;
 
 const int SIZE = 5; // input size.
 
+/*
+Acho que vc não entendeu a ideia de teste de entrada/saída
+mas de qualquer forma esse programa funciona vou considerar 50% uma vez que vc não passou nos testes
+*/
 int main(void)
 {
     int cont[2] = {0}, vector[SIZE];
